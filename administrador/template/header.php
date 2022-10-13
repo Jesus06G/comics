@@ -38,9 +38,9 @@ else{
 
          <a class="nav-item nav-link" href="/inicio.php">Inicio</a>
 
-         <a class="nav-item nav-link" href="administrador/seccion/productos.php">Administar libros</a>
+         <a class="nav-item nav-link" href="seccion/productos.php">Administar libros</a>
 
-         <a class="nav-item nav-link" href="administrador/seccion/cerrar.php">Cerrar sesion</a>
+         <a class="nav-item nav-link" href="seccion/cerrar.php">Cerrar sesion</a>
 
          <a class="nav-item nav-link" href="https://sitecomics-app.herokuapp.com/">Ver sitio web</a>
      </div>
